@@ -130,7 +130,10 @@ Your hairline deserves better.
 ---
 
 ## 🛠️ Tools Used
-- ChatGPT
+- Visual Studio
+- GitHub
+- Canva
+- Google
 - GitHub
 
 ---
