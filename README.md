@@ -6,12 +6,12 @@ Build a reusable prompt system that generates authentic, high-converting UGC ad 
 ---
 
 ## 🏢 Chosen Business
-**Glow & Grace Hair Salon – Durban, South Africa**
-
-Services: Braids, hair installs, treatments, styling.
+****
+*choosen business*
+Services:{provided service}.
 
 ### Problem This Ad Solves
-Many women struggle to find a salon they can trust for neat, long-lasting braids and professional installs.
+Many {Target Audience} struggle to find a salon they can trust for neat, long-lasting braids and professional installs.
 
 ---
 
@@ -42,15 +42,15 @@ Also generate:
 
 ## 🔷 Filled Prompt for This Business
 
-Create a UGC-style Instagram Reel ad for Glow & Grace Hair Salon in Durban.
+Create a UGC-style Instagram Reel ad for {Selected Businsess}
 
-Target: Women aged 18–45 who want neat braids or installs.
+Target: {choosen}
 
 Follow: Hook → Problem → Experience → Solution → CTA.
 
 ---
 
-# 🎯 5 Scroll-Stopping Hooks
+# 🎯 5 Scroll-Stopping Hooks Examples"
 
 1. “I finally found a salon in Durban that does braids neatly 😭”
 2. “Girls, stop wasting money on messy installs…”
